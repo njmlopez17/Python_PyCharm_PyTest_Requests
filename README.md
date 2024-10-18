@@ -1,4 +1,4 @@
-**<ins>This publication covers the following:<ins>**
+## <ins>This publication covers the following:<ins>
 
 • GET method 
 
@@ -15,7 +15,7 @@
 • Python request API automation with PyTest
 
 
-**<ins>Utilizing the following tools (its functions, commands and libraries):<ins>**
+## <ins>Utilizing the following tools (its functions, commands and libraries):<ins>
 
 • Python 
 
@@ -32,7 +32,7 @@
 • GitHub repository
 
 
-**<ins>End-To-End coverage documentation:<ins>**
+## <ins>End-To-End coverage documentation:<ins>
 
 https://github.com/njmlopez17/Python_PyCharm_PyTest_Requests/blob/1835367d0eb56c95480bc6debcc348d2c344afdb/Test%20Automation%20End-to-End%20documentation.pdf
 
