@@ -34,4 +34,5 @@
 
 **End-To-End coverage documentation:**
 
-https://github.com/njmlopez17/Python_PyCharm_PyTest_Requests/blob/bbcc67456e59d26688d7a290032461f3020f39d0/Test%20Automation%20End-to-End%20documentation.pdf
+https://github.com/njmlopez17/Python_PyCharm_PyTest_Requests/blob/63fc16bb4ad7506d7fae1e1241154efd44f77dc7/Test%20Automation%20End-to-End%20documentation.pdf
+
