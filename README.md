@@ -1,35 +1,35 @@
 **This publication covers the following:**
 
-•GET method 
+• GET method 
 
-•POST method 
+• POST method 
 
-•PUT method 
+• PUT method 
 
-•OAuth2 Bearer Token request 
+• OAuth2 Bearer Token request 
 
-•Passing parameters in URL 
+• Passing parameters in URL 
 
-•Passing payload from a JSON file
+• Passing payload from a JSON file
 
-•Python request API automation with PyTest
+• Python request API automation with PyTest
 
 
 **Utilizing the following tools (its functions, commands and libraries):**
 
-•Python 
+• Python 
 
-•Postman  
+• Postman  
 
-•PyCharm  
+• PyCharm  
 
-•JSon Beautifier and Editor
+• JSon Beautifier and Editor
 
-•PyTest
+• PyTest
 
-•Libraries (ie., requests)
+• Libraries (ie., requests)
 
-•GitHub repository
+• GitHub repository
 
 
 **End-To-End coverage documentation:**
